@@ -62,5 +62,5 @@ workstreams over the semester:
 - Microsoft PowerPoint & Word
 
 ## Course
-MBA Consulting Capstone – Bauer College of Business  
+Digital Tranformation – Bauer College of Business  
 University of Houston | Spring 2025
